@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051024464764",
+    "firebase_url": "https://gort-668f0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gort-668f0",
+    "storage_bucket": "gort-668f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051024464764:android:4f195d585017971981a2f9",
+        "android_client_info": {
+          "package_name": "com.melin.gort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051024464764-5vf36vamho3f6d0u49v0a0u0opnpebtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melin.gort",
+            "certificate_hash": "4714572576c4622d8edb8a50da5b0c1e48e42e9d"
+          }
+        },
+        {
+          "client_id": "1051024464764-olm1ee8eos0aqnv9dc5598iiuaqfp1r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJshUho0gTUAbTUDfyCUUsE0C5RxCAldE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051024464764-olm1ee8eos0aqnv9dc5598iiuaqfp1r7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1051024464764-4hkuc7f3d16n6kjrt3pdpc3re3m6te0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gort"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

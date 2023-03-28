@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1051024464764-vsu1qsipn16klu0tiovdemo3522je40r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1051024464764-vsu1qsipn16klu0tiovdemo3522je40r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1051024464764-5vf36vamho3f6d0u49v0a0u0opnpebtd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjT4csnFgF7PPY9MxrZAfdJX-P-wElYZE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1051024464764</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.melin.gort</string>
+	<key>PROJECT_ID</key>
+	<string>gort-668f0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gort-668f0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1051024464764:ios:e9589d34fae84cf581a2f9</string>
+	<key>DATABASE_URL</key>
+	<string>https://gort-668f0-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
